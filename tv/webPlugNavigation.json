@@ -91,9 +91,7 @@
       "name": "真不卡影视(规则)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "type": "webPlug",
-      "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
-      "subMobileTitle": "高清速度快无筛选",
-      "ads": "",
+	  "ads": "",
       "webUrl": "https://www.zhenbuka3.com",
       "webOpen": false,
       "click": true,
@@ -101,13 +99,6 @@
         "search_url": "http://www.ppzhu.vip/zhenbuka.php?wd={kw}",
         "nav_url": "https://www.zhenbuka3.com/vodtype/navCate-navPage/",
         "web_name": "真不卡影视",
-        "kw": "wd",
-        "params": [
-          {
-            "key": "key",
-            "value": "value"
-          }
-        ],
         "navHtml": {
           "name": [
             "不卡电影",
@@ -123,13 +114,10 @@
           ],
           "page": "1"
         },
-        "cateHtml": {},
         "html": {
           "episodes": {
             "hasUrlPrefix": false,
             "isListItemAttr": true,
-            "isReg": false,
-            "isRegNeedDecoder": false,
             "listCss": "ul > li",
             "isMultiList": false,
             "listCssMulti": "",
@@ -138,25 +126,11 @@
             "listItemIndex": 0,
             "mainCss": "div.stui-pannel_bd col-pd clearfix",
             "mainIndex": 0,
-            "regIndexList": [
-              0
-            ],
-            "regItemIndex": 0,
-            "regItemStr": "",
-            "regSplitList": [
-              ""
-            ],
-            "regStrList": [
-              ""
-            ]
           },
           "nav": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
-            "descAttr": "",
+			"descAttr": "",
             "descCss": "span.pic-text text-right",
             "descIndex": 0,
-            "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
             "imgCss": "a",
@@ -176,12 +150,9 @@
             "urlIndex": 0
           },
           "search": {
-            "isKWInUrl": false,
-            "isWebPlay": false,
             "descAttr": "",
             "descCss": "span.author",
             "descIndex": 0,
-            "hasImgUrlPrefix": true,
             "hasUrlPrefix": false,
             "imgAttr": "src",
             "imgCss": "a",
@@ -200,7 +171,6 @@
             "urlCss": "a",
             "urlIndex": 0
           },
-          "video": {}
         }
       }
     },
