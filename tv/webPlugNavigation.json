@@ -100,7 +100,6 @@
       "webPlus": {
         "search_url": "http://www.ppzhu.vip/zhenbuka.php?wd={kw}",
         "nav_url": "https://www.zhenbuka3.com/vodtype/navCate-navPage/",
-        "cate_url": "https://www.zhenbuka3.com/vodshow/cateNav-cateArea-------catePage---cateYear/",
         "web_name": "真不卡影视",
         "kw": "wd",
         "params": [
