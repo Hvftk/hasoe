@@ -124,12 +124,12 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.stui-pannel_bd col-pd clearfix",
+            "mainCss": "div.stui-pannel_bd.col-pd.clearfix",
             "mainIndex": 0
           },
           "nav": {
 			"descAttr": "",
-            "descCss": "span.pic-text text-right",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -139,7 +139,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.stui-vodlist clearfix",
+            "mainCss": "ul.stui-vodlist.clearfix",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -161,14 +161,14 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.freedtv",
+            "mainCss": "ul#searchList",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
             "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
-            "urlCss": "a.searchlist",
+            "urlCss": "a",
             "urlIndex": 0
           }
         }
