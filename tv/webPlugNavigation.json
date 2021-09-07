@@ -125,7 +125,7 @@
             "listItemCss": "a",
             "listItemIndex": 0,
             "mainCss": "div.stui-pannel_bd col-pd clearfix",
-            "mainIndex": 0,
+            "mainIndex": 0
           },
           "nav": {
 			"descAttr": "",
@@ -168,9 +168,9 @@
             "nameIndex": 0,
             "searchListCss": "li",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.searchlist",
             "urlIndex": 0
-          },
+          }
         }
       }
     },
