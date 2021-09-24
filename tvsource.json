@@ -1,18 +1,18 @@
 {
   "homeNote": "声明：该软件所有资源来自网上（包括视频地址解析），不参与任何制作、上传、下载、存储等内容，仅供学习参考，请于安装后24小时内删除，切勿用于商业用途，视频中广告与本App无关",
-  "homeQQGroup": "http://xitaofan.com/qq_group.png",
+  "homeQQGroup": "",
   "vodApi": [
     {
       "id": 1,
-      "name": "TV盒",
-      "api": "http://cms.tvbox543.com/api.php/provide/vod/at/xml",
+      "name": "极品影视",
+      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },
    {
       "id": 2,
-      "name": "电影牛",
-      "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+      "name": "TVB云播",
+      "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },  
