@@ -18,15 +18,15 @@
     },  
     {
       "id": 3,
-      "name": "39影视",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "name": "蘑菇资源",
+      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },      
     {
       "id": 4,
-      "name": "柚子资源",
-      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+      "name": "乐活资源",    
+      "api": "https://lehootv.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },
@@ -39,81 +39,67 @@
     },        
     {
       "id": 6,
-      "name": "蘑菇资源",
-      "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml",
+      "name": "柚子资源",
+      "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },
-    {
+   {
       "id": 7,
-      "name": "八戒资源",
-      "api": "http://cj.bajiecaiji.com/inc/api.php",
+      "name": "39影视",
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },
     {
-      "id": 6,
+      "id": 8,
       "name": "三零资源",
       "api": "http://api.000zy.com/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
-    },
-    {
-      "id": 7,
-      "name": "极品资源",
-      "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": true
     },    
     {
-      "id": 8,
+      "id": 9,
       "name": "侦探APP",
       "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },    
     {
-      "id": 9,
+      "id": 10,
       "name": "KK看剧",
       "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },    
     {
-      "id": 10,
+      "id": 11,
       "name": "电影牛",
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },    
     {
-      "id": 11,
+      "id": 12,
       "name": "好好资源",
       "api": "http://haohaozy.com/api.php/provide/vod/at/xml",
       "click": true,
       "searchFilter": true
     },    
     {
-      "id": 12,
+      "id": 13,
       "name": "红牛资源",
       "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
       "click": true,
       "searchFilter": true
     },    
     {
-      "id": 13,
+      "id": 14,
       "name": "北斗星",
       "api": "https://v8.bdxzyapi.com/inc/api.php",
       "click": true,
       "searchFilter": true
-    },    
-    {
-      "id": 14,
-      "name": "芒果",
-      "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml",
-      "click": true,
-      "searchFilter": true
-    },    
+    },        
     {
       "id": 15,
       "name": "八戒云",
