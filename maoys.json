@@ -858,7 +858,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "http://www.pandown.pro/custom_spider.jar",
+  "spider": "https://github.com/hasoelee/hasoe/blob/master/custom_spider.jar?raw=true",
   "parses": [
     {
       "name": "暮光解析",
